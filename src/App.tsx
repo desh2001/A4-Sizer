@@ -379,7 +379,7 @@ const PhotoLayoutApp: React.FC = () => {
         <div className="header-brand">
           <div className="brand-icon">📄</div>
           <div>
-            <span className="brand-name">A4 Sizer</span>
+            <span className="brand-name">A4 Sizer By Desh</span>
             <span className="brand-tag">Photo Layout Studio</span>
           </div>
         </div>
